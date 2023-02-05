@@ -5,7 +5,7 @@ Emotion detection through facial expression recognition using CNN and Transforme
 ## Goal
 To predict emotions from images
 
-## The project
+## Data
 
 The RAF-BD dataset can be downloaded from the link below (basic expressions only):
 
@@ -18,7 +18,7 @@ About the dataset
 ![image](https://user-images.githubusercontent.com/33942021/216799796-cd97fb73-d0c0-47e2-a6c7-7a69660d0f49.png)
 
 
-Models
+## Models
 
 VGG16 & EfficientB0 as a benchmark, we build these models with 7 output classes and we trained the weights from scratch. We then used transfer learning, and used their pre-trained ImageNet weights with the first layers frozen and only trained the top layers. Finally, we used fine-tuning.
 
