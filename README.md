@@ -2,6 +2,11 @@
 This is a project in the Deep Learning class
 Emotion detection through facial expression recognition using CNN and Transformer architecture
 
+## Goal
+To predict emotions from images
+
+## The project
+
 The RAF-BD dataset can be downloaded from the link below (basic expressions only):
 
 https://drive.google.com/drive/folders/0B4E10azXECctRUgwVmFPblFUdUE?resourcekey=0-SCrrCMK2lc4IDmhDsDKhRw
